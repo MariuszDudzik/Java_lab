@@ -1,0 +1,10 @@
+GENERAL=Gracz2
+nazwa=Gracz2
+skarbiec=1000
+zakupiono=0
+szkolono=0
+flaga_zaatakuj=false
+flaga_zakoncz_manewry=false
+flaga_zakoncz_bitwa=false
+nrBiezacyNiesmiertelnik=1
+armia=0
